@@ -1,0 +1,4 @@
+slug,url,icon,description,tags
+vue,https://vuejs.org/guide/quick-start.html#creating-a-vue-application,logos:vue,the reactive javascript frontend framework ,frontend;framework;javascript;reactive;vue
+nuxt,https://nuxtjs.org/docs/concepts/nuxt-lifecycle/,logos:nuxt-icon,an intuitive and opinionated vue framework,frontend;framework;javascript;reactive;vue;nuxt
+nuxt-content,https://content.nuxtjs.org/,logos:nuxt-icon,cms with Nuxt and Vue components in Markdown with the MDC syntax,cms;frontend;framework;javascript;reactive;vue;nuxt
