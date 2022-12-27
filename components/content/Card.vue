@@ -1,7 +1,7 @@
 <template>
-    <div class="bg-yellow">
-      <slot />
-    </div>
+  <div class="bg-yellow">
+    <slot />
+  </div>
 </template>
 
 <style scoped>
